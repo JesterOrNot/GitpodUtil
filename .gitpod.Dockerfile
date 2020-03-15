@@ -1,6 +1,6 @@
 FROM gitpod/workspace-full-vnc
 
-USER gitpod
+USER root
 
 RUN npm install -g vsce
 
