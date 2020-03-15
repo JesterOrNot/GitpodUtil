@@ -5,5 +5,12 @@
 			"[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/...)"
 		],
 		"description": "Add an open in gitpod button"
-	}
+	},
+    "Ready To Code": {
+        "prefix": "readytocode",
+        "body": [
+            "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/...)"
+        ],
+        "description": "Add a ready to code badge"
+    }
 }
