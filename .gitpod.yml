@@ -12,4 +12,4 @@ tasks:
     command: echo 'start script'
 vscode:
   extensions:
-    - Sean.gitpod-snippets@0.0.1:CGnz/e+h9zz8ZUKp6zdS9A==
+    - seanh.gitpod-snippets@0.0.11:6X10EwDaymn8R+V5VwG5Bg==
