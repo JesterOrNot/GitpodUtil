@@ -1,0 +1,21 @@
+{
+    "name": "gitpod-snippets",
+    "publisher": "Sean",
+    "displayName": "Gitpod-Snippets",
+    "description": "useful Gitpod snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "gitpod-snippet",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
