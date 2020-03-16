@@ -1,9 +1,10 @@
 {
   "name": "GitpodUtil",
   "publisher": "JesterOrNot",
+  "repository": "https://github.com/JesterOrNot/GitpodUtil",
   "displayName": "GitpodUtil",
   "description": "useful Gitpod Stufs",
-  "version": "0.0.211",
+  "version": "0.0.31",
   "engines": {
     "vscode": "^1.28.0"
   },
