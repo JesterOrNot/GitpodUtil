@@ -6,7 +6,7 @@
   "description": "useful Gitpod Stufs",
   "version": "0.0.31",
   "engines": {
-    "vscode": "^1.28.0"
+    "vscode": "1.43.0"
   },
   "categories": [
     "Snippets"
