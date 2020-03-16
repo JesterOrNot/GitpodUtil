@@ -1,7 +1,9 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - init: vsce package
+  - init: |
+      npm install
+      vsce package
 vscode:
   extensions:
     - JesterOrNot.GitpodUtil@0.0.211:oYerG4t8RvBimkt4vveLeQ==
