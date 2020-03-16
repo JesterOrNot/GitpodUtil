@@ -12,4 +12,4 @@ jobs:
     - name: Run a multi-line script
       run: |
         sudo npm install -g vsce
-        vsce package
+        sudo vsce package
