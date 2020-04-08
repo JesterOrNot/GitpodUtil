@@ -6,4 +6,4 @@ tasks:
       vsce package
 vscode:
   extensions:
-    - JesterOrNot.GitpodUtil@0.0.32:I6DszPtn9NS+En3S3ZzAAQ==
+    - JesterOrNot.GitpodUtil@0.0.321:qRiUDSRNwCMBJWSqIrnXig==
