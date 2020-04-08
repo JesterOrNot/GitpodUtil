@@ -4,7 +4,7 @@
   "repository": "https://github.com/JesterOrNot/GitpodUtil",
   "displayName": "GitpodUtil",
   "description": "useful Gitpod Stufs",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "engines": {
     "vscode": "1.43.0"
   },
@@ -19,7 +19,11 @@
     "snippets": [
       {
         "language": "markdown",
-        "path": "./snippets.json"
+        "path": "./markdown_snippets.json"
+      },
+      {
+        "language": "yaml",
+        "path": "./yaml_snippets.json"
       }
     ],
     "commands": [
