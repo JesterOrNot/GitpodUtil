@@ -4,6 +4,7 @@ tasks:
   - init: |
       npm install
       vsce package
+
 vscode:
   extensions:
-    - JesterOrNot.GitpodUtil@0.0.321:qRiUDSRNwCMBJWSqIrnXig==
+    - JesterOrNot.GitpodUtil@0.0.4:oeWaB14s5iuZvHtx1humxQ==

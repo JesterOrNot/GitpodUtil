@@ -12,5 +12,27 @@
             "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/...)"
         ],
         "description": "Add a ready to code badge"
+    },
+    "Gitpod Dockerfile Docs Link": {
+        "prefix": "link-docker-doc",
+        "body": "[.gitpod.Dockerfile](https://www.gitpod.io/docs/config-docker)",
+        "description": "A link to the .gitpod.Dockerfile documentation"
+    },
+    "Gitpod Config File Docs Link": {
+        "prefix": "link-config-file-doc",
+        "body": "[.gitpod.yml](https://www.gitpod.io/docs/config-gitpod-file)",
+        "description": "A link to the .gitpod.yml documentation"
+    },
+    "Example Repositories": {
+        "prefix": "gitpod-example-repos",
+        "body": [
+            "<div class=\"table-container\">",
+            "",
+            "| Repository | Description | Try it |",
+            "|            |             |        |",
+            "",
+            "</div>"
+        ],
+        "description": "A link to the .gitpod.yml documentation"
     }
 }

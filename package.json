@@ -4,7 +4,7 @@
   "repository": "https://github.com/JesterOrNot/GitpodUtil",
   "displayName": "GitpodUtil",
   "description": "useful Gitpod Stufs",
-  "version": "0.0.321",
+  "version": "0.0.4",
   "engines": {
     "vscode": "1.43.0"
   },
